@@ -1,0 +1,177 @@
+[
+  {
+    "created_at": "2024-09-09T13:09:22.517664",
+    "notebook": "task_types",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T14:19:15.922923",
+    "notebook": "data_splits",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T14:24:18.612203",
+    "notebook": "training_epochs",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T15:11:11.603380",
+    "notebook": "feature_selection_engineering",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T15:27:53.158434",
+    "notebook": "data_augmentation",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T15:35:48.561691",
+    "notebook": "data_augmentation",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T15:36:56.101294",
+    "notebook": "data_augmentation",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T15:41:47.847818",
+    "notebook": "model_evaluation",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T16:51:29.017730",
+    "notebook": "cross_fold_validation",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T17:06:08.789063",
+    "notebook": "hyperparameter_tuning",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T17:23:07.783406",
+    "notebook": "hyperparameter_tuning",
+    "event": "feedback",
+    "feedback": {
+      "active_time": "00:30",
+      "finished": "yes",
+      "enjoyment": 4,
+      "usefulness": 4,
+      "skipped_steps": "no",
+      "suggestions": []
+    }
+  },
+  {
+    "created_at": "2024-09-09T17:23:07.893781",
+    "notebook": "hyperparameter_tuning",
+    "event": "stop"
+  },
+  {
+    "created_at": "2024-09-09T17:30:33.805993",
+    "notebook": "hyperparameter_tuning",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T17:32:03.189635",
+    "notebook": "hyperparameter_tuning",
+    "event": "feedback",
+    "feedback": {
+      "active_time": "00:30",
+      "finished": "yes",
+      "enjoyment": 4,
+      "usefulness": 4,
+      "skipped_steps": "no",
+      "suggestions": []
+    }
+  },
+  {
+    "created_at": "2024-09-09T17:32:03.209173",
+    "notebook": "hyperparameter_tuning",
+    "event": "stop"
+  },
+  {
+    "created_at": "2024-09-09T18:46:30.590804",
+    "notebook": "hyperparameter_tuning",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T18:47:35.541132",
+    "notebook": "experiment_tracking",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T18:47:50.556408",
+    "notebook": "hyperparameter_tuning",
+    "event": "feedback",
+    "feedback": {
+      "active_time": "00:30",
+      "finished": "yes",
+      "enjoyment": 4,
+      "usefulness": 4,
+      "skipped_steps": "no",
+      "suggestions": []
+    }
+  },
+  {
+    "created_at": "2024-09-09T18:47:50.566436",
+    "notebook": "hyperparameter_tuning",
+    "event": "stop"
+  },
+  {
+    "created_at": "2024-09-09T19:19:09.425145",
+    "notebook": "hyperparameter_tuning",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T19:21:31.378043",
+    "notebook": "hyperparameter_tuning",
+    "event": "feedback",
+    "feedback": {
+      "active_time": "00:30",
+      "finished": "yes",
+      "enjoyment": 4,
+      "usefulness": 4,
+      "skipped_steps": "no",
+      "suggestions": []
+    }
+  },
+  {
+    "created_at": "2024-09-09T19:21:31.434776",
+    "notebook": "hyperparameter_tuning",
+    "event": "stop"
+  },
+  {
+    "created_at": "2024-09-09T19:28:47.109741",
+    "notebook": "experiment_tracking",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T19:33:30.080817",
+    "notebook": "experiment_tracking",
+    "event": "start"
+  },
+  {
+    "created_at": "2024-09-09T19:38:01.125770",
+    "notebook": "experiment_tracking",
+    "event": "feedback",
+    "feedback": {
+      "active_time": "00:30",
+      "finished": "yes",
+      "enjoyment": 4,
+      "usefulness": 4,
+      "skipped_steps": "no",
+      "suggestions": []
+    }
+  },
+  {
+    "created_at": "2024-09-09T19:38:01.247517",
+    "notebook": "experiment_tracking",
+    "event": "stop"
+  },
+  {
+    "created_at": "2024-09-09T19:55:34.754720",
+    "notebook": "experiment_tracking",
+    "event": "start"
+  }
+]
